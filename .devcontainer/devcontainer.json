@@ -1,0 +1,7 @@
+{
+  "name": "docker_fastapi",
+   "hostRequirements": {
+    "cpus": 4
+  }
+  "dockerFile": "Dockerfile",
+}
